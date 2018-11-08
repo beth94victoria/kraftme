@@ -149,6 +149,13 @@ Rails includes several out-of-the-box software dependencies, or gems, including:
   * Bootsnap – caching application for reducing boot times
   * Asset pipeline libraries, including SaSS for Rails, which provides our app with the ability to use scss stylesheets, and also Uglifier and CoffeeScript for Rails, which allow for JavaScript compression and transcompilation respectively.
   * Development aids such as ByeBug, Web Console, and Spring which made debugging, and app construction much easier.
+  Non standard gems which were added to the app to aid functionality included:
+  * Devise - used to aid user sign in and authentication
+  * Rolify - used to assign and confirm authorisation levels of users
+  * Mailboxer - used for messaging between users
+  * RSpec - used for development of automated tests
+  * Bootstrap - used for styling rules across the site
+
 In addition to Rails, KraftMe employs the standard front-end web technologies, HTML5, CSS3, and Javascript
  
 *References:*
@@ -176,6 +183,17 @@ Rubydoc.info. (2018). File: README — Documentation for bootsnap (1.1.7). [onli
 Rubydoc.info. (2018). File: README — Documentation for uglifier (4.1.19). [online] Available at: https://www.rubydoc.info/gems/uglifier/  [Accessed 7 Nov. 2018].
 
 Rubydoc.info. (2018). File: README — Documentation for byebug (5.0.0). [online] Available at: https://www.rubydoc.info/gems/byebug/5.0.0  [Accessed 7 Nov. 2018].
+
+GitHub. (2018). mailboxer/mailboxer. [online] Available at: https://github.com/mailboxer/mailboxer  [Accessed 8 Nov. 2018].
+
+GitHub. (2018). plataformatec/devise. [online] Available at: https://github.com/plataformatec/devise  [Accessed 8 Nov. 2018].
+
+GitHub. (2018). RolifyCommunity/rolify. [online] Available at: https://github.com/RolifyCommunity/rolify  [Accessed 8 Nov. 2018].
+
+GitHub. (2018). rspec/rspec-rails. [online] Available at: https://github.com/rspec/rspec-rails  [Accessed 8 Nov. 2018].
+
+GitHub. (2018). twbs/bootstrap-rubygem. [online] Available at: https://github.com/twbs/bootstrap-rubygem  [Accessed 8 Nov. 2018].
+
 
 #### 6. Identify the database to be used in your *App* and provide a justification for your choice.
 We used PostgreSQL Relational Database Management System (RDBMS) for KraftMe, which is a Structured Query Language (SQL) database manager.
@@ -213,8 +231,47 @@ Devcenter.heroku.com. (2018). Heroku Ruby Support | Heroku Dev Center. [online] 
 Guides.rubyonrails.org. (2018). Configuring Rails Applications — Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/configuring.html#configuring-a-database  [Accessed 7 Nov. 2018].
 
 #### 8. Describe the architecture of your *App*.
+Our KraftMe application was deployed to Heroku using Git, where it is added to the standard Heroku platform architecture.
+This architecture can be best described by referring to the following diagram:
+
+![KraftMe Architecture](./docs/readme_diagrams/kraftme_architecture.jpg)
+
+The App itself consists of three architectural components; the source code, the gemfile (dependencies), and the Ruby runtime. 
+The Build pack bundles together itself, all of the App components, and a list of instructions for running the app called a Procfile, into another component known as a Slug. A new Slug will be created each time any of the components it contains are changed or re-deployed.
+Next, the Slug is combined with the production environment Config Variables, and any other Add-ons to create a Release of the App. A new Release will be issued any time any of its contained components are changed.
+Dynos are discrete processing units which are where the KraftMe application actually runs. 
+More dynos - each running a copy of the app - can be added as resource needs of the application scale. each time a new version of the app is deployed, all currently executing dynos are killed and a new dyno formation is issued. Dynos can run various commands as issued in the Procfile. Multiple dynos given the ‘web’ command will balance HTTP requests between them.
+A Dyno Manager, and a Logplex complete the full Heroku instance. These are respectively responsible for running and maintaining the dyno formations, and keeping the dyno logs.
+
+*References:*
+
+Devcenter.heroku.com. (2018). Heroku Architecture | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/categories/heroku-architecture  [Accessed 7 Nov. 2018].
+
+Devcenter.heroku.com. (2018). How Heroku Works | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/how-heroku-works  [Accessed 7 Nov. 2018].
+
+En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
 
 #### 9. Explain the different high-level components (abstractions) in your *App*.
+**Models** - these describe the data that will be used in our app, as well as their types, and constraints. All data sent to and from the database is managed by the models. For the KraftMe app these include
+*Users* - used manage data about users of the app
+*Products* - used to manage data about the artworks being sold on the site
+*Orders* - used to record data about transactions
+*Roles* - used to store data about roles, used for authorisation
+*Conversations* - used to store data about messages sent between users (handled by the mailboxer gem)
+**Controllers** - these describe how certain requests and responses are directed around our app, including the information that will be sent along with that action.
+*Users* - used to direct a user to pages which allow them to add or edit their profile (handled by the Devise gem)
+*Products* - used to direct users to a variety of pages where they can view, create, edit, or delete artwork
+*Orders* - used to direct users to pages that show their order or sales histories
+*Charges* - used to direct a user to pages that handle payments (managed by the Stripe gem)
+*Messages* - used to add content within a conversations
+*Conversations* - used to direct users to pages where they can initiate or view conversations
+**Views** - these represent the data or other information that is shown to a user of our app. There are many different types of views, most of which reflect requests or responses from the controllers. Some examples of these include (but are not limited to):
+Showing a list (index) of all artworks available for sale on the app
+  - Allowing users to create or update their account
+  - Showing detailed information about an individual artwork
+  - Allowing users to create messages to other users
+  - Allowing users to enter their details to pay for an artwork
+  - Showing users a history of their purchases or sales
 
 #### 10. Detail any third party services that your *App* will use.
 
