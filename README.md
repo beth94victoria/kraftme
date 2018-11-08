@@ -21,26 +21,25 @@ The application allows for the following:
   * Admin has view that allows them to see all transactions on site
 
 ## Screenshots
-![Home-page](./docs/screenshots/kraftme-homepage.png)
+<img src="./docs/screenshots/kraftme-homepage.png" alt="Home-Page" title="Home-Page" width="600" />
 
-![Log-in-page](./docs/screenshots/log-in-page.png)
+<img src="./docs/screenshots/log-in-page.png" alt="Log-In-Page" title="Log-In-Page" width="600" />
 
-![Edit-user-page](./docs/screenshots/edit-user-page.png)
+<img src="./docs/screenshots/edit-user-page.png" alt="Edit-User-Page" title="Edit-User-Page" width="600" />
 
-![History-page](./docs/screenshots/history-page.png)
+<img src="./docs/screenshots/history-page.png" alt="History-Page" title="History-Page" width="600" />
 
-![Nav-bar](./docs/screenshots/navbar-when-signed-in.png)
+<img src="./docs/screenshots/navbar-when-signed-in.png" alt="Nav-Bar" title="Nav-Bar" width="600" />
 
-![new-message-form](./docs/screenshots/new-message-form.png)
+<img src="./docs/screenshots/new-message-form.png" alt="New-Message-Form" title="New-Message-Form" width="600" />
 
-![users-posted-artworks](./docs/screenshots/posted-artworks.png)
+<img src="./docs/screenshots/posted-artworks.png" alt="Users-Posted-Artworks" title="Users-Posted-Artworks" width="600" />
 
-![product-page](./docs/screenshots/product-page.png)
+<img src="./docs/screenshots/product-page.png" alt="Product-Page" title="Product-Page" width="600" />
 
-![selling-form](./docs/screenshots/selling-form.png)
+<img src="./docs/screenshots/selling-form.png" alt="Selling-Form" title="Selling-Form" width="600" />
 
-![messaging-page](./docs/screenshots/messaging-page.png)
-
+<img src="./docs/screenshots/messaging-page.png" alt="Messaging-Page" title="Messaging-Page" width="600" />
 
 ### Tech stack (e.g. html, css, deployment platform, etc)
 The following technologies were used in the development and deployment of the KraftMe Marketplace App:
@@ -70,7 +69,7 @@ User stories were written on to cards on our Trello Board. Progress of our proje
 ### Wireframes
 An example of one of our low-fi wireframes for the KraftMe Marketplace app is shown below:
 
-![KraftMe Homepage Wireframe](./docs/wireframes/home-page(desktop).jpg)
+<img src="./docs/wireframes/home-page(desktop).jpg" alt="KraftMe Homepage Wireframe" title="KraftMe Homepage Wireframe" width="600" />
 
 For a gallery of all of the wireframes we designed for the app, visit [here](./docs/wireframes)
 
@@ -236,7 +235,7 @@ As our app runs, it is this DATABASE_URL variable which maintains the connection
 Our KraftMe application was deployed to Heroku using Git, where it is added to the standard Heroku platform architecture.
 This architecture can be best described by referring to the following diagram:
 
-![KraftMe Architecture](./docs/readme_diagrams/kraftme_architecture.jpg)
+<img src="./docs/readme_diagrams/kraftme_architecture.jpg" alt="KraftMe Architecture" title="KraftMe Architecture" height="600" />
 
 The App itself consists of three architectural components; the source code, the gemfile (dependencies), and the Ruby runtime. 
 The Build pack bundles together itself, all of the App components, and a list of instructions for running the app called a Procfile, into another component known as a Slug. A new Slug will be created each time any of the components it contains are changed or re-deployed.
