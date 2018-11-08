@@ -11,6 +11,7 @@ User.destroy_all
 
 users = [
     {
+        id: 1,
         email: "foo@bar.com",
         password: '123456',
         username: 'foo',
@@ -22,6 +23,7 @@ users = [
         state: 'LAW'
     },
     {
+        id: 2,
         email: "admin@foo.com",
         password: '234567',
         username: 'nimda',
@@ -33,7 +35,7 @@ users = [
         state: 'LAW'
     },
     {
-        email: "bar@foo.com",
+        id: 3, email: "bar@foo.com",
         password: '876543',
         username: 'bar',
         first_name: 'bar',
@@ -44,6 +46,7 @@ users = [
         state: 'ZA'
     },
     {
+        id: 4,
         email: "admin@bar.com",
         password: '654321',
         username: 'admin',
@@ -170,7 +173,7 @@ products = [
     },
 ]
 
-images = ['Anh_Do_oil.jpeg', 'Doctor_who.jpeg', 'Dog_Oil.jpg', 'Face_WaterColour.jpeg', 'Fish_Oil.jpeg', 'julia.jpg', 'Lion_Watercolour.jpg', 'Mona_lisa.jpeg', 'park_Oil.jpeg', 'Shearing.jpeg', 'Shred_Acrylic.jpg', 'Starry_night.jpg', 'town_WaterColour.jpg']
+images = ['Anh_Do_oil.jpeg', 'Doctor_who.jpeg', 'Dog_Oil.jpg', 'Face_WaterColour.jpeg', 'Fish_Oil.jpeg', 'julia.jpg', 'Lion_WaterColour.jpg', 'Mona_lisa.jpeg', 'park_Oil.jpeg', 'Shearing.jpeg', 'Shred_Acrylic.jpg', 'Starry_night.jpg', 'town_WaterColour.jpg']
 
 products.each do |attributes|
     product = Product.new(attributes)
