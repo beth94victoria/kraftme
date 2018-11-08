@@ -335,7 +335,7 @@ For our manual testing we created a google spreadsheet that included the test na
 
 If a test did not pass we would write a comment describing the problem encountered so that we could address any user experience problems. 
 
-![KraftMe Manual User Tests](./docs/readme_diagrams/kraftmr_manual_user_tests.pdf)
+[KraftMe Manual User Tests](./docs/readme_diagrams/kraftme_manual_user_tests.pdf)
 
 Automated tests were handled through the use of the RSpec gem. 
 RSpec creates a number of different testing sets whenever generators are run in rails, and we used these to test both our Product and User models, and our Product controller.
