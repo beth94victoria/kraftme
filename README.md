@@ -110,6 +110,8 @@ Our first Trello board showing the expected plan and timeline for developing the
 
 Trello progress over our project can be found on the rest of our Trello boards [here](./docs/trello_boards)
 
+The Trello board can also be seen in full at https://trello.com/b/AZ2b8Oy7/kraft-me-marketplace
+
 # Answers to the Short Answer questions
 
 #### 1. What is the need (i.e. challenge) that you will be addressing in your project?
