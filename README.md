@@ -134,9 +134,9 @@ All of the major network infrastructure components described have been illustrat
 
 *References:*
 
-En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
+*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
 
-Spacey, J. (2018). What is Network Infrastructure?. [online] Simplicable. Available at: https://simplicable.com/new/network-infrastructure  [Accessed 7 Nov. 2018].
+*Spacey, J. (2018). What is Network Infrastructure?. [online] Simplicable. Available at: https://simplicable.com/new/network-infrastructure  [Accessed 7 Nov. 2018].
 
 
 #### 5. Identify and describe the software to be used in your *App.*
@@ -160,39 +160,39 @@ In addition to Rails, KraftMe employs the standard front-end web technologies, H
  
 *References:*
 
-Deveiate.org. (2018). PG: The Ruby PostgreSQL Driver. [online] Available at: https://deveiate.org/code/pg/  [Accessed 7 Nov. 2018].
+*Deveiate.org. (2018). PG: The Ruby PostgreSQL Driver. [online] Available at: https://deveiate.org/code/pg/  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). puma/puma. [online] Available at: https://github.com/puma/puma  [Accessed 7 Nov. 2018].
+*GitHub. (2018). puma/puma. [online] Available at: https://github.com/puma/puma  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). rails/coffee-rails. [online] Available at: https://github.com/rails/coffee-rails  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/coffee-rails. [online] Available at: https://github.com/rails/coffee-rails  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). rails/jbuilder. [online] Available at: https://github.com/rails/jbuilder#jbuilder  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/jbuilder. [online] Available at: https://github.com/rails/jbuilder#jbuilder  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). rails/sass-rails. [online] Available at: https://github.com/rails/sass-rails  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/sass-rails. [online] Available at: https://github.com/rails/sass-rails  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). rails/spring. [online] Available at: https://github.com/rails/spring  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/spring. [online] Available at: https://github.com/rails/spring  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). rails/web-console. [online] Available at: https://github.com/rails/web-console  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/web-console. [online] Available at: https://github.com/rails/web-console  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). turbolinks/turbolinks. [online] Available at: https://github.com/turbolinks/turbolinks  [Accessed 7 Nov. 2018].
+*GitHub. (2018). turbolinks/turbolinks. [online] Available at: https://github.com/turbolinks/turbolinks  [Accessed 7 Nov. 2018].
 
-Guides.rubyonrails.org. (2018). Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/index.html  [Accessed 7 Nov. 2018].
+*Guides.rubyonrails.org. (2018). Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/index.html  [Accessed 7 Nov. 2018].
 
-Rubydoc.info. (2018). File: README — Documentation for bootsnap (1.1.7). [online] Available at: https://www.rubydoc.info/gems/bootsnap/1.1.7  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for bootsnap (1.1.7). [online] Available at: https://www.rubydoc.info/gems/bootsnap/1.1.7  [Accessed 7 Nov. 2018].
 
-Rubydoc.info. (2018). File: README — Documentation for uglifier (4.1.19). [online] Available at: https://www.rubydoc.info/gems/uglifier/  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for uglifier (4.1.19). [online] Available at: https://www.rubydoc.info/gems/uglifier/  [Accessed 7 Nov. 2018].
 
-Rubydoc.info. (2018). File: README — Documentation for byebug (5.0.0). [online] Available at: https://www.rubydoc.info/gems/byebug/5.0.0  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for byebug (5.0.0). [online] Available at: https://www.rubydoc.info/gems/byebug/5.0.0  [Accessed 7 Nov. 2018].
 
-GitHub. (2018). mailboxer/mailboxer. [online] Available at: https://github.com/mailboxer/mailboxer  [Accessed 8 Nov. 2018].
+*GitHub. (2018). mailboxer/mailboxer. [online] Available at: https://github.com/mailboxer/mailboxer  [Accessed 8 Nov. 2018].
 
-GitHub. (2018). plataformatec/devise. [online] Available at: https://github.com/plataformatec/devise  [Accessed 8 Nov. 2018].
+*GitHub. (2018). plataformatec/devise. [online] Available at: https://github.com/plataformatec/devise  [Accessed 8 Nov. 2018].
 
-GitHub. (2018). RolifyCommunity/rolify. [online] Available at: https://github.com/RolifyCommunity/rolify  [Accessed 8 Nov. 2018].
+*GitHub. (2018). RolifyCommunity/rolify. [online] Available at: https://github.com/RolifyCommunity/rolify  [Accessed 8 Nov. 2018].
 
-GitHub. (2018). rspec/rspec-rails. [online] Available at: https://github.com/rspec/rspec-rails  [Accessed 8 Nov. 2018].
+*GitHub. (2018). rspec/rspec-rails. [online] Available at: https://github.com/rspec/rspec-rails  [Accessed 8 Nov. 2018].
 
-GitHub. (2018). twbs/bootstrap-rubygem. [online] Available at: https://github.com/twbs/bootstrap-rubygem  [Accessed 8 Nov. 2018].
+*GitHub. (2018). twbs/bootstrap-rubygem. [online] Available at: https://github.com/twbs/bootstrap-rubygem  [Accessed 8 Nov. 2018].
 
 
 #### 6. Identify the database to be used in your *App* and provide a justification for your choice.
@@ -203,9 +203,9 @@ In order to identify and/or minimise conflicts which could occur in the producti
 
 *References:*
 
-2ndquadrant.com. (2018). PostgreSQL vs MySQL | 2ndQuadrant. [online] Available at: https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/  [Accessed 7 Nov. 2018].
+*2ndquadrant.com. (2018). PostgreSQL vs MySQL | 2ndQuadrant. [online] Available at: https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/  [Accessed 7 Nov. 2018].
 
-Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql  [Accessed 7 Nov. 2018].
 
 #### 7. Identify and describe the production database setup (i.e. postgres instance).
 To set up our production database on Heroku, we first confirmed that the ‘pg’ ruby gem was installed in our applications ‘Gemfile’, and that all dependencies were resolved using ‘bundle install’.
@@ -222,13 +222,13 @@ password: <%= ENV['KRAFTME_DATABASE_PASSWORD'] %>
 This ‘database.yml’ file, and the variables set within it were recreated on Heroku upon deployment of our application, and the Heroku server parsed the file to create a single DATABASE_URL variable, which contains all the database connection and setup information.  
 As our app runs, it is this DATABASE_URL variable which maintains the connection and subsequent transfer of data between our app and the postgres instance on the Heroku Postgres database.
 
-*References:*
+*References:
 
-Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql#connecting-in-ruby  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql#connecting-in-ruby  [Accessed 7 Nov. 2018].
 
-Devcenter.heroku.com. (2018). Heroku Ruby Support | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/ruby-support#build-behavior  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Ruby Support | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/ruby-support#build-behavior  [Accessed 7 Nov. 2018].
 
-Guides.rubyonrails.org. (2018). Configuring Rails Applications — Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/configuring.html#configuring-a-database  [Accessed 7 Nov. 2018].
+*Guides.rubyonrails.org. (2018). Configuring Rails Applications — Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/configuring.html#configuring-a-database  [Accessed 7 Nov. 2018].
 
 #### 8. Describe the architecture of your *App*.
 Our KraftMe application was deployed to Heroku using Git, where it is added to the standard Heroku platform architecture.
@@ -245,11 +245,11 @@ A Dyno Manager, and a Logplex complete the full Heroku instance. These are respe
 
 *References:*
 
-Devcenter.heroku.com. (2018). Heroku Architecture | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/categories/heroku-architecture  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Architecture | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/categories/heroku-architecture  [Accessed 7 Nov. 2018].
 
-Devcenter.heroku.com. (2018). How Heroku Works | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/how-heroku-works  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). How Heroku Works | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/how-heroku-works  [Accessed 7 Nov. 2018].
 
-En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
+*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
 
 #### 9. Explain the different high-level components (abstractions) in your *App*.
 **Models** - these describe the data that will be used in our app, as well as their types, and constraints. All data sent to and from the database is managed by the models. For the KraftMe app these include
@@ -258,6 +258,7 @@ En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.or
 *Orders* - used to record data about transactions
 *Roles* - used to store data about roles, used for authorisation
 *Conversations* - used to store data about messages sent between users (handled by the mailboxer gem)
+
 **Controllers** - these describe how certain requests and responses are directed around our app, including the information that will be sent along with that action.
 *Users* - used to direct a user to pages which allow them to add or edit their profile (handled by the Devise gem)
 *Products* - used to direct users to a variety of pages where they can view, create, edit, or delete artwork
@@ -265,6 +266,7 @@ En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.or
 *Charges* - used to direct a user to pages that handle payments (managed by the Stripe gem)
 *Messages* - used to add content within a conversations
 *Conversations* - used to direct users to pages where they can initiate or view conversations
+
 **Views** - these represent the data or other information that is shown to a user of our app. There are many different types of views, most of which reflect requests or responses from the controllers. Some examples of these include (but are not limited to):
 Showing a list (index) of all artworks available for sale on the app
   - Allowing users to create or update their account
@@ -274,18 +276,41 @@ Showing a list (index) of all artworks available for sale on the app
   - Showing users a history of their purchases or sales
 
 #### 10. Detail any third party services that your *App* will use.
+  * **Heroku** - used for the app deployment. Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps.
+  * **Stripe** - used to process payments from users. Stripe is a payment platform application to manage revenue and the cloud infrastructure provides reliability.
+  * **Cloudinary** - we used cloudinary for image file uploads. Cloudinary offers an incredibly feature-rich image and video platform. It allows to securely upload & store as many images and videos as needed, at any scale, from any source. It also uses a powerful API for fast upload directly from users’ browsers or mobile apps. 
+
 
 #### 11. Describe (in general terms) the data structure of marketplace apps that are similar to your own (e.g. eBay, Airbnb).
+  * **Etsy** has Users, Items, Favourites, Conversations, Cart, Purchases, Reviews and Shop. You need to open a shop to be able to post items for sale. Items are also organized in Categories and Subcategories.
+  * **Ebay** has Users, Items, Bids/Offers, Purchase History, Watching, Saved Searches, Saved Sellers, and Messages. Items are also categorized in Categories and Subcategories.
+  * **Gumtree** has Users, Ads, Messages, Watchlist. Ads are also categorized in Categories and Subcategories. 
+
 
 #### 12. Discuss the database relations to be implemented.
+**User** is used as a foreign key for most of the other tables in the database. 
+It is used as a foreign key for **Role**, with a *has and belongs to many* relationship. 
+
+**User** is also used as a foreign key for **Product**, which *belongs to* **User**. **User** has a *one to many* relationship with **Product**.
+
+**Product** is used as a foreign key for **Order**, which *belongs to* **Product**. **Order** also has **User** as foreign key, used as both Buyer and Seller IDs. 
+
 
 #### 13. Describe your project’s models in terms of the relationships (active record associations) they have with each other.
+  * **User** - has many products, has many Buy and Sell orders under Order, has and belongs to many Roles.
+  * **Product** - belongs to User, has many Orders
+  * **Orders** - belongs to Product, belongs to Buyer and Seller referenced from User
+  * **Role** - belongs to and has many relationships to User
+
 
 #### 14. Provide your database schema design.
+The ERD for the KraftMe Marketplace application can be found [here](./docs/erd/kraftme_erd.png)
 
 #### 15. Provide User stories for your *App*.
+User stories were written on to cards on our Trello Board. Progress of our project over time, including how user stories were added, modified, and addressed in the project can be seen [here](./docs/trello_boards)
 
 #### 16. Provide Wireframes for your *App*.
+A gallery of all of the wireframes we designed for the KraftMe app can be found [here](./docs/wireframes)
 
 #### 17. Describe the way tasks are allocated and tracked in your project.
 
