@@ -335,6 +335,8 @@ For our manual testing we created a google spreadsheet that included the test na
 
 If a test did not pass we would write a comment describing the problem encountered so that we could address any user experience problems. 
 
+![KraftMe Manual User Tests](./docs/readme_diagrams/kraftmr_manual_user_tests.pdf)
+
 Automated tests were handled through the use of the RSpec gem. 
 RSpec creates a number of different testing sets whenever generators are run in rails, and we used these to test both our Product and User models, and our Product controller.
 
@@ -345,11 +347,18 @@ Some of the major benefits of automated tests over manual tests include their re
 
 #### 21. Discuss and analyse requirements related to information system security.
 There are three components of the information security triad: Confidentiality, Integrity and Availability. Together they work to protect information and restrict access from those without authoritative access. In summary, the three factors aim to ensure that personal information is only available to be accessed and modified by appropriate people, that it is protected from inappropriate people, and that the personal information available represents what the owner of the information intends.
-In our application we implemented administrator roles which restricted access to certain areas of the application, and game them the ability to monitor and modify site content if and when needs arose. All other users were restricted to viewing their own information and content on the application.
 
 #### 22. Discuss methods you will use to protect information and data.
+For the KraftMe application we implemented authentication and authorisation via the Devise and Rolify gems. With these in place, only users who have an administrator role will have access to certain areas of the application, and have the ability to monitor and modify global site content if and when the need arises. All other users will only be able  to view and modify their own information and content.
+
+All passwords used on KraftMe are encrypted, such that even admins will not be able to see them from the backend. 
+
+In addition to authentication and authorisation rules this, we ensured validation and sanitation of our data. Validation rules were set up in our models, which specified the type and constraints for data being entered into the database through forms. To further sanitise this data, strong parameter rules were set up on our controllers so that any malicious data would not be allowed to pass through.
+
+Finally, by using Stripe on the application, we protected the financial information of users. Stripe is widely used, reputable, and tested, and through redirecting users to this API, they can feel secure about providing sensitive data for purchases.
+Stripe as a API in our app secures user financial information.
 
 #### 23. Research what your legal obligations are in relation to handling user data.
+As our application only focuses on local artists and local Australian customers, we would not need to cover GDPR as we will not do business outside Australia.
 
-
-
+For Australian legal obligations, we will only be mandated if the business makes a turnover of more than 3 million dollars based on the Australian Privacy Act. While it may not be mandatory upon inital release of the application, it would still be better to have a privacy policy in place once the app is made commercially available to show the users that the company respects and value their privacy and will not misuse their data.
