@@ -324,10 +324,28 @@ Google spreadsheets and google docs were used for collaborating on our manual te
 We viewed this project as one whole sprint, needing to pitch our application at the end of week two. As well as the initial meeting in the morning, where we’d decide who was working on what, we implemented an afternoon standup at 1:00pm which gave us a chance to discuss what we were having trouble with. Before going home in the afternoon we rechecked and updated our trello board and ensured that any features completed during that day were deployed to Heroku. 
 
 #### 19. Provide an overview and description of your Source control process.
+We used GitHub, and a forking workflow to manage development of the project. Our Git master maintained the repository containing the pristine master repository (central repository), and our three contributors each made a fork of this for feature development.
+
+Each new feature of the app was created on a new local branch, then tested in a local development environment, before being pushed to a contributors remote repository. From there, a pull request (PR) was issued to the central repository, along with a request for review. For some features which required testing, contributors could pull down a feature branch to their local repositories prior to review to ensure that the feature worked as expected.
+
+Once tested and reviewed, a PR was merged with the pristine master, and contributors pulled down the new master before continuing the feature building process.
 
 #### 20. Provide an overview and description of your Testing process.
+For our manual testing we created a google spreadsheet that included the test name, process of testing, expected result, actual result, name of tester, the date of the test  and whether or not the test passed. 
+
+If a test did not pass we would write a comment describing the problem encountered so that we could address any user experience problems. 
+
+Automated tests were handled through the use of the RSpec gem. 
+RSpec creates a number of different testing sets whenever generators are run in rails, and we used these to test both our Product and User models, and our Product controller.
+
+Running automated tests aim to ensure that the critical functions of the app work, and that any errors in operation are discovered and resolved prior to deployment.
+
+Some of the major benefits of automated tests over manual tests include their reproducibility and reusability, meaning that a structured, pre-existing test can be run each time a new version of the app is released, and that the test will be run exactly the same way each time.
+
 
 #### 21. Discuss and analyse requirements related to information system security.
+There are three components of the information security triad: Confidentiality, Integrity and Availability. Together they work to protect information and restrict access from those without authoritative access. In summary, the three factors aim to ensure that personal information is only available to be accessed and modified by appropriate people, that it is protected from inappropriate people, and that the personal information available represents what the owner of the information intends.
+In our application we implemented administrator roles which restricted access to certain areas of the application, and game them the ability to monitor and modify site content if and when needs arose. All other users were restricted to viewing their own information and content on the application.
 
 #### 22. Discuss methods you will use to protect information and data.
 
