@@ -1,16 +1,15 @@
-# README
-
-# KraftMe Market App
+# KraftMe Marketplace App
 
 ## Link to published site URL
-
+[Visit the KraftMe application](https://young-scrubland-51531.herokuapp.com)
 
 ## Link to GitHub (public)
-[It's Sophia zhu's github](https://github.com/sophiasupercoder/kraftme)
+[Central GitHub Repository](https://github.com/EnFen/kraftme)
 ## Description of project,including,
 
 ### Problem definition / purpose
-The purpose of this project is to create an Australian only market place, where users can buy and sell their artworks. The application will be a place where people can find local artists, get in contact with them, buy artwork and also have the option to get their own masterpieces out to the public.  
+The purpose of KraftMe is to create a local artist market place - initially focussing on locations within  Australia -  where artists can display, buy and sell their works. 
+Consumers will also be able to use the application to view work by local artists,  contact them and/or buy artworks they love,  all on the same platform. 
 
 ### Functionality / features
 The application allows for the following:
