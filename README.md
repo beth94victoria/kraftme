@@ -13,12 +13,12 @@ Consumers will also be able to use the application to view work by local artists
 
 ### Functionality / features
 The application allows for the following:
-⋅⋅*User can make accounts and buy and sell artwork
-⋅⋅*User can upload images for artworks that they list on the site
-⋅⋅*User can see their purchase and sales history
-⋅⋅*User can send messages to the sellers of the artworks
-⋅⋅*Admin has a view that allows them to edit and destroy all artworks listed on site
-⋅⋅*Admin has view that allows them to see all transactions on site
+  * User can make accounts and buy and sell artwork
+  * User can upload images for artworks that they list on the site
+  * User can see their purchase and sales history
+  * User can send messages to the sellers of the artworks
+  * Admin has a view that allows them to edit and destroy all artworks listed on site
+  * Admin has view that allows them to see all transactions on site
 
 ## Screenshots
 ![Home-page](./docs/kraftme-homepage.png)
@@ -34,7 +34,12 @@ The application allows for the following:
 
 
 ### Tech stack (e.g. html, css, deployment platform, etc)
-We use Ruby on Rails, HTML, CSS, Heroku, Github
+The following technologies were used in the development and deployment of the KraftMe Marketplace App:
+  * Ruby on Rails
+  * HTML
+  * CSS
+  * Git/Github
+  * Heroku
 
 ### Application
 
