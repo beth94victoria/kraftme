@@ -4,13 +4,22 @@
 
 ## Link to published site URL
 
-## Link to GitHub (public)
 
-## Description of project
+## Link to GitHub (public)
+[It's Sophia zhu's github](https://github.com/sophiasupercoder/kraftme)
+## Description of project,including,
 
 ### Problem definition / purpose
+The purpose of this project is to create an Australian only market place, where users can buy and sell their artworks. The application will be a place where people can find local artists, get in contact with them, buy artwork and also have the option to get their own masterpieces out to the public.  
 
 ### Functionality / features
+The application allows for the following:
+⋅⋅*User can make accounts and buy and sell artwork
+⋅⋅*User can upload images for artworks that they list on the site
+⋅⋅*User can see their purchase and sales history
+⋅⋅*User can send messages to the sellers of the artworks
+⋅⋅*Admin has a view that allows them to edit and destroy all artworks listed on site
+⋅⋅*Admin has view that allows them to see all transactions on site
 
 ## Screenshots
 ![Home-page](./docs/kraftme-homepage.png)
@@ -24,15 +33,16 @@
 ![selling-form](./docs/selling-form.png)
 ![messaging-page](./docs/messaging-page.png)
 
+
+### Tech stack (e.g. html, css, deployment platform, etc)
+We use Ruby on Rails, HTML, CSS, Heroku, Github
+
 ### Application
 
 
 ### Validation
 ![Validation](./docs/user_validation.jpg)
 ![Validation](./docs/product_validation.jpg)
-
-### Tech stack 
- 
 
 ### Instructions on how to setup, configure and use your App.
 
@@ -43,7 +53,7 @@
 ### User stories
 
 ### A workflow diagram of the user journey/s.
-
+![alt text](/docs/User_workflow.png)
 ### Wireframes
 ![](./docs/user_validation.jpg)
 
@@ -56,6 +66,17 @@
 ### Project plan & timeline
 
 ### Screenshots of Trello board(s)
+![alt text](/docs/trello1.png)
+![alt text](/docs/trello2.png)
+![alt text](/docs/trello3.png)
+![alt text](/docs/trello4.png)
+![alt text](/docs/trello5.png)
+![alt text](/docs/trello6.png)
+![alt text](/docs/trello7.png)
+![alt text](/docs/trello8.png)
+![alt text](/docs/trello9.png)
+![alt text](/docs/trello10.png)
+![alt text](/docs/trello11.png)
 
 ![first trello screenshot](./docs/29.10.18_trello.png)
 ![trello board day 2](./docs/30.10.18_trello.png)
