@@ -45,8 +45,16 @@
 ### A workflow diagram of the user journey/s.
 
 ### Wireframes
-![](./docs/user_validation.jpg)
-
+![Edit-User(desktop)](./docs/edit-user(desktop).jpg)
+![Edit-User(mobile)](./docs/edit-user(mobile).jpg)
+![home-page(tablet)](./docs/homepage(tablet).jpg)
+![home-page(desktop)](./docs/homepage(desktop).jpg)
+![home-page(mobile)](./docs/homepage(mobile).jpg)
+![login-form(desktop)](./docs/login-form(desktop).jpg)
+![messages(mobile)](./docs/messages-page(mobile).jpg)
+![order-history(desktop)](./docs/order-history(desktop).jpg)
+![product-page(mobile)](./docs/product-page(mobile).jpg)
+![selling-page(desktop)](./docs/selling-page(desktop).jpg)
 ### Database Entity Relationship Diagrams
 
 
