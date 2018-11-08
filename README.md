@@ -313,8 +313,15 @@ User stories were written on to cards on our Trello Board. Progress of our proje
 A gallery of all of the wireframes we designed for the KraftMe app can be found [here](./docs/wireframes)
 
 #### 17. Describe the way tasks are allocated and tracked in your project.
+Each morning we chose the features or tasks to work on for the KraftMe app by referring to our Trello board. These were usually found in the “To Do” or “Idea Backlog”  sections (depending on how critical to MVP the feature was). We moved active tasks to the “In Progress” section, and then to the “In Testing” or “Done” section as development of the feature progressed.
+
+On most tasks we implemented a pair programming system to avoid merge conflicts and confusion. When pushing to Github we issued requests for review from our fellow team members and confirmed these reviews before merging.
+
+Google spreadsheets and google docs were used for collaborating on our manual tests, documentation and the presentation.
+
 
 #### 18. Discuss how Agile methodology is being implemented in your project.
+We viewed this project as one whole sprint, needing to pitch our application at the end of week two. As well as the initial meeting in the morning, where we’d decide who was working on what, we implemented an afternoon standup at 1:00pm which gave us a chance to discuss what we were having trouble with. Before going home in the afternoon we rechecked and updated our trello board and ensured that any features completed during that day were deployed to Heroku. 
 
 #### 19. Provide an overview and description of your Source control process.
 
