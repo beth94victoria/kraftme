@@ -22,14 +22,23 @@ The application allows for the following:
 
 ## Screenshots
 ![Home-page](./docs/screenshots/kraftme-homepage.png)
+
 ![Log-in-page](./docs/screenshots/log-in-page.png)
+
 ![Edit-user-page](./docs/screenshots/edit-user-page.png)
+
 ![History-page](./docs/screenshots/history-page.png)
+
 ![Nav-bar](./docs/screenshots/navbar-when-signed-in.png)
+
 ![new-message-form](./docs/screenshots/new-message-form.png)
+
 ![users-posted-artworks](./docs/screenshots/posted-artworks.png)
+
 ![product-page](./docs/screenshots/product-page.png)
+
 ![selling-form](./docs/screenshots/selling-form.png)
+
 ![messaging-page](./docs/screenshots/messaging-page.png)
 
 
@@ -42,7 +51,7 @@ The following technologies were used in the development and deployment of the Kr
   * Heroku
 
 ### Instructions on how to setup, configure and use your App.
-A standard user of the site must first proceed to the [KraftMe Marketplace](https://young-scrubland-51531.herokuapp.com), whhere they will be able to view all available artworks in the KraftMe gallery. Once they have created a user profile and signed up, they will be able to access and participate in the rest of the website, including posting their own artworks for sale, contacting artists, or making a purchase.
+A standard user of the site must first proceed to the [KraftMe Marketplace](https://young-scrubland-51531.herokuapp.com), where they will be able to view all available artworks in the KraftMe gallery. Once they have created a user profile and signed up, they will be able to access and participate in the rest of the website, including posting their own artworks for sale, contacting artists, or making a purchase.
 At this time, admin level users must request access from the developers, who will set up the account and then provide the user with an appropriate admin level username and password.
 
 ## Design documentation
@@ -59,7 +68,11 @@ User stories were written on to cards on our Trello Board. Progress of our proje
 ![KraftMe User Workflow](/docs/user_workflow/User_workflow.png)
 
 ### Wireframes
-![KraftMe Homepage Wireframe](./docs/wireframes/#)
+An example of one of our low-fi wireframes for the KraftMe Marketplace app is shown below:
+
+![KraftMe Homepage Wireframe](./docs/wireframes/home-page(desktop).jpg)
+
+For a gallery of all of the wireframes we designed for the app, visit [here](./docs/wireframes)
 
 ### Database Entity Relationship Diagrams
 ![KraftMe ERD](./docs/erd/kraftme_erd.png)
@@ -91,8 +104,10 @@ We had 9 days to complete the project, which progressed according to the followi
   
 
 ### Screenshots of Trello board(s)
-Our first Trello board showing the expected plan and timeline for developing the KraftMe Marketplace is shown below:
+Our first Trello board showing the expected plan and timeline for developing the KraftMe Marketplace is shown below: 
+
 ![KraftMe Starting Trello](./docs/trello_boards/29.10.18_trello.png)
+
 Trello progress over our project can be found on the rest of our Trello boards [here](./docs/trello_boards)
 
 ## Answers to the Short Answer questions (Section 2.2)
