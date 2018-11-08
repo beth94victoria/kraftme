@@ -56,49 +56,44 @@ Then we proceeded with doing the ERD, the user stories, and then started the dev
 User stories were written on to cards on our Trello Board. Progress of our project over time, including how user stories were added, modified, and addressed in the project can be seen [here](./docs/trello_boards)
 
 ### A workflow diagram of the user journey/s.
-![alt text](/docs/User_workflow.png)
+![KraftMe User Workflow](/docs/user_workflow/User_workflow.png)
+
 ### Wireframes
-![Edit-User(desktop)](./docs/edit-user(desktop).jpg)
-![Edit-User(mobile)](./docs/edit-user(mobile).jpg)
-![home-page(tablet)](./docs/homepage(tablet).jpg)
-![home-page(desktop)](./docs/homepage(desktop).jpg)
-![home-page(mobile)](./docs/homepage(mobile).jpg)
-![login-form(desktop)](./docs/login-form(desktop).jpg)
-![messages(mobile)](./docs/messages-page(mobile).jpg)
-![order-history(desktop)](./docs/order-history(desktop).jpg)
-![product-page(mobile)](./docs/product-page(mobile).jpg)
-![selling-page(desktop)](./docs/selling-page(desktop).jpg)
+![KraftMe Homepage Wireframe](./docs/wireframes/#)
+
 ### Database Entity Relationship Diagrams
+![KraftMe ERD](./docs/erd/kraftme_erd.png)
 
 ### Validation
-See the process we used for validation rules [here](./docs/validation_rules)
+See the processes we used to describe our validation rules for users and products [here](./docs/validation_rules)
 
-## Details of planning process including:
+## Details of planning process
 
 ### Project plan & timeline
+A project plan was developed using the 'Due Date' function on Trello cards as a guide for completing product features.
+We had 9 days to complete the project, which progressed according to the following timeline:
+  ###### Day One
+  * Wireframes
+  * ERD Design
+  * User Stories
+  * Assignment of feature priority for MVP
+  * Assignment of due dates for high priority features
+  * Git flow set up for all team members
+  * Initial deployment of Rails to Heroku
+  ###### Day Two - Seven
+  * Development of KraftMe app functionality & features
+  * Addition of styling (minor)
+  * Manual and Automated testing of the application in both development and production environments
+  ###### Day Eight - Nine
+  * Bugfixes
+  * Documentation
+  * Presentation preparation
+  
 
 ### Screenshots of Trello board(s)
-![alt text](/docs/trello1.png)
-![alt text](/docs/trello2.png)
-![alt text](/docs/trello3.png)
-![alt text](/docs/trello4.png)
-![alt text](/docs/trello5.png)
-![alt text](/docs/trello6.png)
-![alt text](/docs/trello7.png)
-![alt text](/docs/trello8.png)
-![alt text](/docs/trello9.png)
-![alt text](/docs/trello10.png)
-![alt text](/docs/trello11.png)
-
-![first trello screenshot](./docs/29.10.18_trello.png)
-![trello board day 2](./docs/30.10.18_trello.png)
-![trello board day 3](./docs/31.10.18_trello.png)
-![trello board day 3](./docs/31.10.18_trello2.png)
-![trello board day 4](./docs/1.11.18_trello.png)
-![trello board day 5](./docs/02.11.18_trello.png)
-![trello board day 5](./docs/02.11.18_trello2.png)
-![trello board day 9](./docs/06.11.18_trello.png)
-![trello board day 10](./docs/07.11.18_trello.png)
+Our first Trello board showing the expected plan and timeline for developing the KraftMe Marketplace is shown below:
+![KraftMe Starting Trello](./docs/trello_boards/29.10.18_trello.png)
+Trello progress over our project can be found on the rest of our Trello boards [here](./docs/trello_boards)
 
 ## Answers to the Short Answer questions (Section 2.2)
 
