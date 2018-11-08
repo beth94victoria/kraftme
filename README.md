@@ -134,9 +134,9 @@ All of the major network infrastructure components described have been illustrat
 
 *References:*
 
-*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
+*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].*
 
-*Spacey, J. (2018). What is Network Infrastructure?. [online] Simplicable. Available at: https://simplicable.com/new/network-infrastructure  [Accessed 7 Nov. 2018].
+*Spacey, J. (2018). What is Network Infrastructure?. [online] Simplicable. Available at: https://simplicable.com/new/network-infrastructure  [Accessed 7 Nov. 2018].*
 
 
 #### 5. Identify and describe the software to be used in your *App.*
@@ -160,39 +160,39 @@ In addition to Rails, KraftMe employs the standard front-end web technologies, H
  
 *References:*
 
-*Deveiate.org. (2018). PG: The Ruby PostgreSQL Driver. [online] Available at: https://deveiate.org/code/pg/  [Accessed 7 Nov. 2018].
+*Deveiate.org. (2018). PG: The Ruby PostgreSQL Driver. [online] Available at: https://deveiate.org/code/pg/  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). puma/puma. [online] Available at: https://github.com/puma/puma  [Accessed 7 Nov. 2018].
+*GitHub. (2018). puma/puma. [online] Available at: https://github.com/puma/puma  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). rails/coffee-rails. [online] Available at: https://github.com/rails/coffee-rails  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/coffee-rails. [online] Available at: https://github.com/rails/coffee-rails  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). rails/jbuilder. [online] Available at: https://github.com/rails/jbuilder#jbuilder  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/jbuilder. [online] Available at: https://github.com/rails/jbuilder#jbuilder  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). rails/sass-rails. [online] Available at: https://github.com/rails/sass-rails  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/sass-rails. [online] Available at: https://github.com/rails/sass-rails  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). rails/spring. [online] Available at: https://github.com/rails/spring  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/spring. [online] Available at: https://github.com/rails/spring  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). rails/web-console. [online] Available at: https://github.com/rails/web-console  [Accessed 7 Nov. 2018].
+*GitHub. (2018). rails/web-console. [online] Available at: https://github.com/rails/web-console  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). turbolinks/turbolinks. [online] Available at: https://github.com/turbolinks/turbolinks  [Accessed 7 Nov. 2018].
+*GitHub. (2018). turbolinks/turbolinks. [online] Available at: https://github.com/turbolinks/turbolinks  [Accessed 7 Nov. 2018].*
 
-*Guides.rubyonrails.org. (2018). Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/index.html  [Accessed 7 Nov. 2018].
+*Guides.rubyonrails.org. (2018). Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/index.html  [Accessed 7 Nov. 2018].*
 
-*Rubydoc.info. (2018). File: README — Documentation for bootsnap (1.1.7). [online] Available at: https://www.rubydoc.info/gems/bootsnap/1.1.7  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for bootsnap (1.1.7). [online] Available at: https://www.rubydoc.info/gems/bootsnap/1.1.7  [Accessed 7 Nov. 2018].*
 
-*Rubydoc.info. (2018). File: README — Documentation for uglifier (4.1.19). [online] Available at: https://www.rubydoc.info/gems/uglifier/  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for uglifier (4.1.19). [online] Available at: https://www.rubydoc.info/gems/uglifier/  [Accessed 7 Nov. 2018].*
 
-*Rubydoc.info. (2018). File: README — Documentation for byebug (5.0.0). [online] Available at: https://www.rubydoc.info/gems/byebug/5.0.0  [Accessed 7 Nov. 2018].
+*Rubydoc.info. (2018). File: README — Documentation for byebug (5.0.0). [online] Available at: https://www.rubydoc.info/gems/byebug/5.0.0  [Accessed 7 Nov. 2018].*
 
-*GitHub. (2018). mailboxer/mailboxer. [online] Available at: https://github.com/mailboxer/mailboxer  [Accessed 8 Nov. 2018].
+*GitHub. (2018). mailboxer/mailboxer. [online] Available at: https://github.com/mailboxer/mailboxer  [Accessed 8 Nov. 2018].*
 
-*GitHub. (2018). plataformatec/devise. [online] Available at: https://github.com/plataformatec/devise  [Accessed 8 Nov. 2018].
+*GitHub. (2018). plataformatec/devise. [online] Available at: https://github.com/plataformatec/devise  [Accessed 8 Nov. 2018].*
 
-*GitHub. (2018). RolifyCommunity/rolify. [online] Available at: https://github.com/RolifyCommunity/rolify  [Accessed 8 Nov. 2018].
+*GitHub. (2018). RolifyCommunity/rolify. [online] Available at: https://github.com/RolifyCommunity/rolify  [Accessed 8 Nov. 2018].*
 
-*GitHub. (2018). rspec/rspec-rails. [online] Available at: https://github.com/rspec/rspec-rails  [Accessed 8 Nov. 2018].
+*GitHub. (2018). rspec/rspec-rails. [online] Available at: https://github.com/rspec/rspec-rails  [Accessed 8 Nov. 2018].*
 
-*GitHub. (2018). twbs/bootstrap-rubygem. [online] Available at: https://github.com/twbs/bootstrap-rubygem  [Accessed 8 Nov. 2018].
+*GitHub. (2018). twbs/bootstrap-rubygem. [online] Available at: https://github.com/twbs/bootstrap-rubygem  [Accessed 8 Nov. 2018].*
 
 
 #### 6. Identify the database to be used in your *App* and provide a justification for your choice.
@@ -203,9 +203,9 @@ In order to identify and/or minimise conflicts which could occur in the producti
 
 *References:*
 
-*2ndquadrant.com. (2018). PostgreSQL vs MySQL | 2ndQuadrant. [online] Available at: https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/  [Accessed 7 Nov. 2018].
+*2ndquadrant.com. (2018). PostgreSQL vs MySQL | 2ndQuadrant. [online] Available at: https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/  [Accessed 7 Nov. 2018].*
 
-*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql  [Accessed 7 Nov. 2018].*
 
 #### 7. Identify and describe the production database setup (i.e. postgres instance).
 To set up our production database on Heroku, we first confirmed that the ‘pg’ ruby gem was installed in our applications ‘Gemfile’, and that all dependencies were resolved using ‘bundle install’.
@@ -224,11 +224,11 @@ As our app runs, it is this DATABASE_URL variable which maintains the connection
 
 *References:
 
-*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql#connecting-in-ruby  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Postgres | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/heroku-postgresql#connecting-in-ruby  [Accessed 7 Nov. 2018].*
 
-*Devcenter.heroku.com. (2018). Heroku Ruby Support | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/ruby-support#build-behavior  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Ruby Support | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/ruby-support#build-behavior  [Accessed 7 Nov. 2018].*
 
-*Guides.rubyonrails.org. (2018). Configuring Rails Applications — Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/configuring.html#configuring-a-database  [Accessed 7 Nov. 2018].
+*Guides.rubyonrails.org. (2018). Configuring Rails Applications — Ruby on Rails Guides. [online] Available at: https://guides.rubyonrails.org/configuring.html#configuring-a-database  [Accessed 7 Nov. 2018].*
 
 #### 8. Describe the architecture of your *App*.
 Our KraftMe application was deployed to Heroku using Git, where it is added to the standard Heroku platform architecture.
@@ -245,11 +245,11 @@ A Dyno Manager, and a Logplex complete the full Heroku instance. These are respe
 
 *References:*
 
-*Devcenter.heroku.com. (2018). Heroku Architecture | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/categories/heroku-architecture  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). Heroku Architecture | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/categories/heroku-architecture  [Accessed 7 Nov. 2018].*
 
-*Devcenter.heroku.com. (2018). How Heroku Works | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/how-heroku-works  [Accessed 7 Nov. 2018].
+*Devcenter.heroku.com. (2018). How Heroku Works | Heroku Dev Center. [online] Available at: https://devcenter.heroku.com/articles/how-heroku-works  [Accessed 7 Nov. 2018].*
 
-*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].
+*En.wikipedia.org. (2018). Heroku. [online] Available at: https://en.wikipedia.org/wiki/Heroku  [Accessed 7 Nov. 2018].*
 
 #### 9. Explain the different high-level components (abstractions) in your *App*.
 **Models** - these describe the data that will be used in our app, as well as their types, and constraints. All data sent to and from the database is managed by the models. For the KraftMe app these include
@@ -313,7 +313,7 @@ User stories were written on to cards on our Trello Board. Progress of our proje
 A gallery of all of the wireframes we designed for the KraftMe app can be found [here](./docs/wireframes)
 
 #### 17. Describe the way tasks are allocated and tracked in your project.
-Each morning we chose the features or tasks to work on for the KraftMe app by referring to our Trello board. These were usually found in the “To Do” or “Idea Backlog”  sections (depending on how critical to MVP the feature was). We moved active tasks to the “In Progress” section, and then to the “In Testing” or “Done” section as development of the feature progressed.
+Each morning we chose the features or tasks to work on for the KraftMe app by referring to our Trello board. These were usually found in the *To Do* or *Idea Backlog*  sections (depending on how critical to MVP the feature was). We moved active tasks to the *In Progress* section, and then to the *In Testing* or *Done* section as development of the feature progressed.
 
 On most tasks we implemented a pair programming system to avoid merge conflicts and confusion. When pushing to Github we issued requests for review from our fellow team members and confirmed these reviews before merging.
 
